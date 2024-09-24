@@ -1,0 +1,4 @@
+wine/wines.db
+wine/.env
+wine/venv/
+wine/__pycache__/
